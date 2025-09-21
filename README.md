@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Chill Guy" width="150" height="120" style="margin-top: -25px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm01Z2tjczJtYzI0enFsbmcwcmh3Nzdobmo5YXl3bTdzc293bnNhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tg9jENf7x11tdJnyMQ/giphy.gif">
+<img align="right" alt="Chill Guy" width="140" height="115" style="margin-top: -25px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm01Z2tjczJtYzI0enFsbmcwcmh3Nzdobmo5YXl3bTdzc293bnNhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tg9jENf7x11tdJnyMQ/giphy.gif">
 
 - 🎓 **Computer Engineering Graduate** from Birzeit University
 - 🤖 Passionate about **AI Engineering** and **Machine Learning**
