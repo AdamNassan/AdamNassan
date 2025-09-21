@@ -26,11 +26,9 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,bash&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,bash,postgresql&theme=dark" />
   <img src="https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ### 🤖 AI/ML & Data Science
@@ -45,7 +43,8 @@
 
 ### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,idea,pycharm,clion&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion&theme=dark" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
