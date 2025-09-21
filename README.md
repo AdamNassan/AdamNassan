@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;AI+Engineering+Enthusiast;Data+Analysis+Expert;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 
-<img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 </div>
 
@@ -12,9 +14,7 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img alt="Chill Guy" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1xaDMxem56dWZnejh1b2h4NTc4d2JwNmE1ZnI3YTV3czNlbXR6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif">
-</div>
+<img align="right" alt="Chill Guy" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1xaDMxem56dWZnejh1b2h4NTc4d2JwNmE1ZnI3YTV3czNlbXR6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif">
 
 - 🎓 **Computer Engineering Graduate** from Birzeit University
 - 🤖 Passionate about **AI Engineering** and **Machine Learning**
