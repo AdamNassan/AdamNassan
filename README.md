@@ -87,13 +87,11 @@
 ## 🎓 Education & Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Birzeit%20University-28a745?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Engineering-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASAL%20Technology-ff6600?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge&logo=chart-bar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Birzeit%20University-Computer%20Engineering-28a745?style=for-the-badge&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASAL%20Technology-Azure%20AI%20Fundamentals-ff6600?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udacity-Data%20Analytics-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />
 </div>
+
 
 ## 🏆 Competitive Programming
 
