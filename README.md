@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;AI+Engineering+Enthusiast;Data+Analysis+Expert;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=AdamNassan&style=for-the-badge&color=blue" alt="Profile views" />
-
 <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </div>
@@ -45,6 +43,10 @@
 ---
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdamNassan&style=for-the-badge&color=blue" alt="Profile views" />
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamNassan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
