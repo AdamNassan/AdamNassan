@@ -19,7 +19,7 @@
 - 🎓 **Computer Engineering Graduate** from Birzeit University
 - 🤖 Passionate about **AI Engineering** and **Machine Learning**
 - 📊 Specialized in **Data Analysis** with hands-on experience in Python, SQL, and visualization tools
-- 😎 Just a chill guy who loves coding and solving problems
+- 😎 Just a chill guy who chose coding
 
 ---
 
@@ -121,6 +121,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
   ### Thanks for visiting! Have a great day! 😄
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's collaborate and build amazing things together!</b></em>
-</div>
+
