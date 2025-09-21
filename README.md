@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Chill Guy" width="150" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm01Z2tjczJtYzI0enFsbmcwcmh3Nzdobmo5YXl3bTdzc293bnNhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tg9jENf7x11tdJnyMQ/giphy.gif">
+<img align="right" alt="Chill Guy" width="150" height="120" style="margin-top: -15px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm01Z2tjczJtYzI0enFsbmcwcmh3Nzdobmo5YXl3bTdzc293bnNhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tg9jENf7x11tdJnyMQ/giphy.gif">
 
 - 🎓 **Computer Engineering Graduate** from Birzeit University
 - 🤖 Passionate about **AI Engineering** and **Machine Learning**
 - 📊 Specialized in **Data Analysis** with hands-on experience in Python, SQL, and visualization tools
-- 😎 Just a chill guy who chose coding
+- 😎 Just a chill guy who loves coding and solving problems
 
 ---
 
@@ -120,5 +120,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
-  ### Thanks for visiting! Have a great day! 😄
-
+  ### Thanks for visiting! Have a great day!
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's collaborate and build amazing things together!</b></em>
+</div>
