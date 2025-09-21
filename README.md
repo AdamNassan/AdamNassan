@@ -12,9 +12,12 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Chill Guy" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+
 - 🎓 **Computer Engineering Graduate** from Birzeit University
 - 🤖 Passionate about **AI Engineering** and **Machine Learning**
 - 📊 Specialized in **Data Analysis** with hands-on experience in Python, SQL, and visualization tools
+- 😎 Just a chill guy who loves coding and solving problems
 
 ---
 
