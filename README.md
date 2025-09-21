@@ -121,6 +121,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
   ### Thanks for visiting! Have a great day!
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's collaborate and build amazing things together!</b></em>
-</div>
