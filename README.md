@@ -26,7 +26,11 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,bash,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ### 🤖 AI/ML & Data Science
@@ -41,7 +45,7 @@
 
 ### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,idea,pycharm,webstorm,clion&theme=dark" />
 </p>
 
 ---
@@ -82,9 +86,8 @@
 ## 🎓 Education & Certifications
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=&theme=dark" />
-  <img src="https://img.shields.io/badge/Birzeit%20University-Computer%20Engineering-blue?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASAL%20Technology-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Birzeit%20University-Computer%20Engineering-28a745?style=for-the-badge&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASAL%20Technology-Azure%20AI%20Fundamentals-ff6600?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Udacity-Data%20Analytics-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />
 </div>
 
