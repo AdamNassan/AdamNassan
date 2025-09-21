@@ -17,18 +17,14 @@
 - 🎓 **Computer Engineering Graduate** from Birzeit University
 - 🤖 Passionate about **AI Engineering** and **Machine Learning**
 - 📊 Specialized in **Data Analysis** with hands-on experience in Python, SQL, and visualization tools
-- 💼 **AI Intern at ASAL Technology**
-- ⚡ Fun fact: I turn **☕ coffee** into **code** and ideas into reality!
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical 
 
 ### 👨‍💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,bash,postgresql&theme=dark" />
-  <img src="https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
 
 ### 🤖 AI/ML & Data Science
@@ -44,7 +40,6 @@
 ### 🔧 Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion&theme=dark" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
