@@ -45,7 +45,7 @@
 
 ### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,idea,pycharm,webstorm,clion&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,idea,pycharm,clion&theme=dark" />
 </p>
 
 ---
