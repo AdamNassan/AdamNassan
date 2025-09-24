@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamNassan&theme=radical" alt="Adam's GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=AdamNassan&theme=radical" alt="Adam's GitHub streak"/>
 </div>
 
 <div align="center">
