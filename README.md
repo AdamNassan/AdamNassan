@@ -55,10 +55,6 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdamNassan&theme=radical" alt="Adam's GitHub streak"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=AdamNassan&style=for-the-badge&color=blue" alt="Profile views" />
 </div>
 
